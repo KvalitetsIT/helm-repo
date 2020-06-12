@@ -2,8 +2,19 @@ apiVersion: v1
 entries:
   kitcaddy:
   - apiVersion: v2
+    appVersion: 1.1.2
+    created: "2020-06-12T11:23:05.941748917Z"
+    description: A Helm chart for deplaying a web-service with kitcaddy
+    digest: da2830da6158518ccdd54b7893efbdc30e8b1b9c51697314968df887d5081865
+    home: https://github.com/KvalitetsIT/kitcaddy
+    name: kitcaddy
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/KvalitetsIT/helm-repo/master/kitcaddy/kitcaddy-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v2
     appVersion: 1.1.1
-    created: "2020-06-11T11:00:31.738969605Z"
+    created: "2020-06-12T11:23:05.940221878Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 968f344b940a361a740553d267cc07f9e0baf4fce9e93795aece9a19c542b361
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -12,4 +23,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/KvalitetsIT/helm-repo/master/kitcaddy/kitcaddy-1.1.1.tgz
     version: 1.1.1
-generated: "2020-06-11T11:00:31.737363332Z"
+generated: "2020-06-12T11:23:05.938062545Z"
