@@ -3,7 +3,7 @@ entries:
   argoApps:
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2020-10-20T08:37:57.337774748Z"
+    created: "2020-10-20T08:53:58.985879978Z"
     description: A Helm char for apps of apps in Argo
     digest: 84e5e0c53ba5f7dfbf80155b4e03be98f9f3ac3dfadfd407f484a59c5b55d131
     home: https://github.com/KvalitetsIT/helm-argo-app-chart
@@ -13,7 +13,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2020-10-20T08:37:57.337562604Z"
+    created: "2020-10-20T08:53:58.985591953Z"
     description: A Helm char for apps of apps in Argo
     digest: c929ceb9b9209566316e04065bd46cbda882091ecc18f2b4ca70ab59bce58222
     home: https://github.com/KvalitetsIT/helm-argo-app-chart
@@ -23,7 +23,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2020-10-20T08:37:57.337280665Z"
+    created: "2020-10-20T08:53:58.985286064Z"
     description: A Helm char for apps of apps in Argo
     digest: 4ecc048d57c5fe40a143452c7efabf51744e195191b6a8650ee01786e838f498
     home: https://github.com/KvalitetsIT/helm-argo-app-chart
@@ -33,7 +33,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2020-10-20T08:37:57.337024Z"
+    created: "2020-10-20T08:53:58.985047326Z"
     description: A Helm char for apps of apps in Argo
     digest: 8dc74e438bb8d995e3b676f0556a4f4c7d20fc8f949b89a49744cfbd6f9a3a82
     home: https://github.com/KvalitetsIT/helm-argo-app-chart
@@ -43,7 +43,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2020-10-20T08:37:57.336712785Z"
+    created: "2020-10-20T08:53:58.984700591Z"
     description: A Helm char for apps of apps in Argo
     digest: ec44fe85a3a68ec56db9f5fee3e438beddb66ae7cc3957cdca186a0726582d2c
     home: https://github.com/KvalitetsIT/helm-argo-app-chart
@@ -53,7 +53,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-10-20T08:37:57.33634104Z"
+    created: "2020-10-20T08:53:58.984355922Z"
     description: A Helm char for apps of apps in Argo
     digest: 4dd7884b0948b4d6feb9132a18172cbda15eda7ccc91d51eb94802042f999bf4
     home: https://github.com/KvalitetsIT/helm-argo-app-chart
@@ -64,7 +64,7 @@ entries:
   kitcaddy:
   - apiVersion: v2
     appVersion: 1.2.20
-    created: "2020-10-20T08:37:57.380955343Z"
+    created: "2020-10-20T08:53:59.029310428Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: c51bdaed859f61e75b8fda79c706809da4ba8da42023fd8330c9f0502ca077e3
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -75,7 +75,7 @@ entries:
     version: 1.2.20
   - apiVersion: v2
     appVersion: 1.2.19
-    created: "2020-10-20T08:37:57.377406045Z"
+    created: "2020-10-20T08:53:59.027371048Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 08439be1ac9fc13c5aa61f37e02cf556390d183d02b25695da99770a467660e0
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -86,7 +86,7 @@ entries:
     version: 1.2.19
   - apiVersion: v2
     appVersion: 1.2.18
-    created: "2020-10-20T08:37:57.375783588Z"
+    created: "2020-10-20T08:53:59.02644408Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 6a568195fdc698938639bcd298f5364ae164ddcaf3bb5cc9ccee5c3e573f6cc1
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -97,7 +97,7 @@ entries:
     version: 1.2.18
   - apiVersion: v2
     appVersion: 1.2.17
-    created: "2020-10-20T08:37:57.373104577Z"
+    created: "2020-10-20T08:53:59.025414666Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: e3a095377724aaa52abbd7257cee6a04e1b2ab504f87c111ebf76d0dc41eaefd
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -108,7 +108,7 @@ entries:
     version: 1.2.17
   - apiVersion: v2
     appVersion: 1.2.16
-    created: "2020-10-20T08:37:57.370591974Z"
+    created: "2020-10-20T08:53:59.02443082Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 95cc8089197a873e4cfc5520723c6901b459ac5553fd8f8fb4df0728c2f2ebb6
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -119,7 +119,7 @@ entries:
     version: 1.2.16
   - apiVersion: v2
     appVersion: 1.2.15
-    created: "2020-10-20T08:37:57.368496412Z"
+    created: "2020-10-20T08:53:59.023499175Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: a00b1dc12f71b2a64a3d6de18d81eb1246b777daa7474ed9e852e3d1fbf476ca
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -130,7 +130,7 @@ entries:
     version: 1.2.15
   - apiVersion: v2
     appVersion: 1.2.14
-    created: "2020-10-20T08:37:57.367493893Z"
+    created: "2020-10-20T08:53:59.022537157Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 5d0b879bbf6ffa81a62183b9f14536c90029dc7c8eaf9d1097001aa189f1e277
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -141,7 +141,7 @@ entries:
     version: 1.2.14
   - apiVersion: v2
     appVersion: 1.2.13
-    created: "2020-10-20T08:37:57.36651813Z"
+    created: "2020-10-20T08:53:59.021258987Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 86c21f4620bf7ff7e545b1ec2e029e9245047c0592d0e4e854f57e454119ccf6
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -152,7 +152,7 @@ entries:
     version: 1.2.13
   - apiVersion: v2
     appVersion: 1.2.12
-    created: "2020-10-20T08:37:57.365538012Z"
+    created: "2020-10-20T08:53:59.018980502Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 7003ec7a42191488408e7253a48c5ac1ca41b37fbc82a2f2d4e2c7cdaa076d2e
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -163,7 +163,7 @@ entries:
     version: 1.2.12
   - apiVersion: v2
     appVersion: 1.2.11
-    created: "2020-10-20T08:37:57.364517523Z"
+    created: "2020-10-20T08:53:59.016914649Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 65d94b0fbb851f2e49aa0d104bfb233e6916a8b726dd84016f2cac28e971b530
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -174,7 +174,7 @@ entries:
     version: 1.2.11
   - apiVersion: v2
     appVersion: 1.2.10
-    created: "2020-10-20T08:37:57.363338704Z"
+    created: "2020-10-20T08:53:59.008208749Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 20eb99efeddc4666751efc9c9584d05a4b418bbc67bf4f877c27e62147174f88
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -185,7 +185,7 @@ entries:
     version: 1.2.10
   - apiVersion: v2
     appVersion: 1.2.9
-    created: "2020-10-20T08:37:57.388217642Z"
+    created: "2020-10-20T08:53:59.038707111Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: c1daf50308470f73ae9fc9344d3f9cd40e08c63e8202cbc00288eb0d3ecd9f12
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -196,7 +196,7 @@ entries:
     version: 1.2.9
   - apiVersion: v2
     appVersion: 1.2.8
-    created: "2020-10-20T08:37:57.38716151Z"
+    created: "2020-10-20T08:53:59.037774099Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 56077f56b307f1897f53744ea29e21b77e64d8b3da65a88af5bbb704fb76a711
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -207,7 +207,7 @@ entries:
     version: 1.2.8
   - apiVersion: v2
     appVersion: 1.2.7
-    created: "2020-10-20T08:37:57.386223727Z"
+    created: "2020-10-20T08:53:59.036703658Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: e095e5bcf167def888f9e4f47aa93acad7171f9256890646d42bd7f8354291ef
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -218,7 +218,7 @@ entries:
     version: 1.2.7
   - apiVersion: v2
     appVersion: 1.2.6
-    created: "2020-10-20T08:37:57.385222071Z"
+    created: "2020-10-20T08:53:59.035348363Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: fed699d1decbaad128185f59e03b006a3458f6c59e27f48177441a794d683fde
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -229,7 +229,7 @@ entries:
     version: 1.2.6
   - apiVersion: v2
     appVersion: 1.2.5
-    created: "2020-10-20T08:37:57.38419219Z"
+    created: "2020-10-20T08:53:59.033699192Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 430444e1431859c12312ee018037f5685e0fc90805171073edd5d2a3a7b72dc3
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -240,7 +240,7 @@ entries:
     version: 1.2.5
   - apiVersion: v2
     appVersion: 1.2.4
-    created: "2020-10-20T08:37:57.38310248Z"
+    created: "2020-10-20T08:53:59.031155959Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: d10569583c6c9effdd48a4c8ef9623fa10728949ff54650c0076b7f0b787ba03
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -251,7 +251,7 @@ entries:
     version: 1.2.4
   - apiVersion: v2
     appVersion: 1.2.3
-    created: "2020-10-20T08:37:57.381935911Z"
+    created: "2020-10-20T08:53:59.030266598Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 72563b7250b0f2b469a4edbff6c22661dff74d5b044b712cd06f5d9c68e35be7
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -262,7 +262,7 @@ entries:
     version: 1.2.3
   - apiVersion: v2
     appVersion: 1.2.2
-    created: "2020-10-20T08:37:57.379637858Z"
+    created: "2020-10-20T08:53:59.028267903Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 67978498352236e8bce87f98be4109ed07ba309d184964f0985d5b743f67fcf0
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -273,7 +273,7 @@ entries:
     version: 1.2.2
   - apiVersion: v2
     appVersion: 1.2.1
-    created: "2020-10-20T08:37:57.362332938Z"
+    created: "2020-10-20T08:53:59.007324527Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 2eb31dc9e45eb30dd1ad11058f68b66d8473b94a249f1ca64aa03499400b40ae
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -284,7 +284,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2020-10-20T08:37:57.361361185Z"
+    created: "2020-10-20T08:53:59.006438019Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: cf9ec8f3a754e5cb2483efa9545af9857e0e1099cef220f5506f26c047418518
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -295,7 +295,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 1.1.14
-    created: "2020-10-20T08:37:57.343144091Z"
+    created: "2020-10-20T08:53:58.994900896Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 170fa5e4af8d69cd783dfe68dd8281ff63dc1faf2f0af8530129079425497e01
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -306,7 +306,7 @@ entries:
     version: 1.1.14
   - apiVersion: v2
     appVersion: 1.1.12
-    created: "2020-10-20T08:37:57.341892093Z"
+    created: "2020-10-20T08:53:58.993808838Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 8b4aa9844ec3e97b8d9c038fff6f5c5a167054d60df89cdf41ecbc58d4e492a7
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -317,7 +317,7 @@ entries:
     version: 1.1.12
   - apiVersion: v2
     appVersion: 1.1.11
-    created: "2020-10-20T08:37:57.3409061Z"
+    created: "2020-10-20T08:53:58.992610671Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: ae4dd849e1463cbc80fa473d60751dd38a1142042bbe77c14882a77964b1d7c1
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -328,7 +328,7 @@ entries:
     version: 1.1.11
   - apiVersion: v2
     appVersion: 1.1.10
-    created: "2020-10-20T08:37:57.339802117Z"
+    created: "2020-10-20T08:53:58.991499198Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 01078cc2d6c07380563cb3b1583636f6a6b9595536b36d2b81917e7cc3fb0670
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -339,7 +339,7 @@ entries:
     version: 1.1.10
   - apiVersion: v2
     appVersion: 1.1.9
-    created: "2020-10-20T08:37:57.360395869Z"
+    created: "2020-10-20T08:53:59.005400493Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 4dd8468ca70dd0a3b669c69057870e6bfc70aad79f8d296358ba11022187e8bb
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -350,7 +350,7 @@ entries:
     version: 1.1.9
   - apiVersion: v2
     appVersion: 1.1.8
-    created: "2020-10-20T08:37:57.359350335Z"
+    created: "2020-10-20T08:53:59.00444374Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 85c081ec744421e32ba30ce91107a8ba28ca9500621de6577a4f0f80f8be77d8
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -361,7 +361,7 @@ entries:
     version: 1.1.8
   - apiVersion: v2
     appVersion: 1.1.7
-    created: "2020-10-20T08:37:57.358198768Z"
+    created: "2020-10-20T08:53:59.003602804Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 15ce6a8e52711bf8e9e83f7742f6b520296565222ab9cee2daa53996dfdc2fff
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -372,7 +372,7 @@ entries:
     version: 1.1.7
   - apiVersion: v2
     appVersion: 1.1.6
-    created: "2020-10-20T08:37:57.356557016Z"
+    created: "2020-10-20T08:53:59.002657964Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 51ee8f8e34ef806883bfaf419599214e2849fb23a19f2e0074f1d2319a05f0b1
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -383,7 +383,7 @@ entries:
     version: 1.1.6
   - apiVersion: v2
     appVersion: 1.1.5
-    created: "2020-10-20T08:37:57.353675687Z"
+    created: "2020-10-20T08:53:59.001630218Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 73c81999104c12b0158b0f06e5996f9a67e50d5a1c7657b73d4f636d55b50076
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -394,7 +394,7 @@ entries:
     version: 1.1.5
   - apiVersion: v2
     appVersion: 1.1.4
-    created: "2020-10-20T08:37:57.345988694Z"
+    created: "2020-10-20T08:53:59.000659952Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: f74f68d3a7175f484daf266a83be27c15f89e32275cf44830664573d0e8ec83f
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -405,7 +405,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: 1.1.3
-    created: "2020-10-20T08:37:57.345104244Z"
+    created: "2020-10-20T08:53:58.999834621Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: e8482a5029e026e283e620311e3770ab44459bd81ace607d1fffbf36efd21370
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -416,7 +416,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: 1.1.2
-    created: "2020-10-20T08:37:57.344134819Z"
+    created: "2020-10-20T08:53:58.998894929Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: da2830da6158518ccdd54b7893efbdc30e8b1b9c51697314968df887d5081865
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -427,7 +427,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2020-10-20T08:37:57.338798396Z"
+    created: "2020-10-20T08:53:58.990313395Z"
     description: A Helm chart for deplaying a web-service with kitcaddy
     digest: 968f344b940a361a740553d267cc07f9e0baf4fce9e93795aece9a19c542b361
     home: https://github.com/KvalitetsIT/kitcaddy
@@ -438,8 +438,19 @@ entries:
     version: 1.1.1
   nsp-prometheus-exporter:
   - apiVersion: v2
+    appVersion: 1.0.10
+    created: "2020-10-20T08:53:59.040825281Z"
+    description: A Helm chart for deplaying a service with nsp-prometheus-exporter
+    digest: ba1926d44673b73c48f793c8f596c3f87b23d0022f4757698b54708120dfb77d
+    home: https://github.com/KvalitetsIT/nsp-prometeus-exporter
+    name: nsp-prometheus-exporter
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/KvalitetsIT/helm-repo/master/nsp-prometheus-exporter/nsp-prometheus-exporter-1.0.10.tgz
+    version: 1.0.10
+  - apiVersion: v2
     appVersion: 1.0.9
-    created: "2020-10-20T08:37:57.406430238Z"
+    created: "2020-10-20T08:53:59.047648673Z"
     description: A Helm chart for deplaying a service with nsp-prometheus-exporter
     digest: baf7241f8fdee9d8a921326157067034656b37cfb05ad0d86e85df69593bf3a6
     home: https://github.com/KvalitetsIT/nsp-prometeus-exporter
@@ -450,7 +461,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2020-10-20T08:37:57.404977042Z"
+    created: "2020-10-20T08:53:59.046886187Z"
     description: A Helm chart for deplaying a service with nsp-prometheus-exporter
     digest: d6881fdaf284aa6cc44f4e9359e76d2b06fe26f310f449fe9f8b8228d1c2fc91
     home: https://github.com/KvalitetsIT/nsp-prometeus-exporter
@@ -461,7 +472,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.0.7
-    created: "2020-10-20T08:37:57.403258698Z"
+    created: "2020-10-20T08:53:59.04530101Z"
     description: A Helm chart for deplaying a service with nsp-prometheus-exporter
     digest: 6f4404244b208b723acfaaf057fa3eabe800467f4a5e6767db32a81dccbef44e
     home: https://github.com/KvalitetsIT/nsp-prometeus-exporter
@@ -472,7 +483,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2020-10-20T08:37:57.401517683Z"
+    created: "2020-10-20T08:53:59.044351235Z"
     description: A Helm chart for deplaying a service with nsp-prometheus-exporter
     digest: 01821b3677653dfa95b14f9ccda418f034dd7e0287fc1d14f2700f1211c0a3eb
     home: https://github.com/KvalitetsIT/nsp-prometeus-exporter
@@ -483,7 +494,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2020-10-20T08:37:57.395553139Z"
+    created: "2020-10-20T08:53:59.043645041Z"
     description: A Helm chart for deplaying a service with nsp-prometheus-exporter
     digest: 534703c68da0036dcba47d4ccb7511b4dad886bd69c2244fbe566d9f5bc06d21
     home: https://github.com/KvalitetsIT/nsp-prometeus-exporter
@@ -494,7 +505,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2020-10-20T08:37:57.393511456Z"
+    created: "2020-10-20T08:53:59.042885066Z"
     description: A Helm chart for deplaying a service with nsp-prometheus-exporter
     digest: 00570bed6f544d8cd93aa106f8b835c370d7e06864442001739518e8b03d1dd0
     home: https://github.com/KvalitetsIT/nsp-prometeus-exporter
@@ -505,7 +516,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2020-10-20T08:37:57.391497441Z"
+    created: "2020-10-20T08:53:59.042157469Z"
     description: A Helm chart for deplaying a service with nsp-prometheus-exporter
     digest: f2e99f6f59117fa1b14274232ba15635124ef223c9e8a2ae5a546ce325e77ce5
     home: https://github.com/KvalitetsIT/nsp-prometeus-exporter
@@ -516,7 +527,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2020-10-20T08:37:57.390769196Z"
+    created: "2020-10-20T08:53:59.041467038Z"
     description: A Helm chart for deplaying a service with nsp-prometheus-exporter
     digest: f7e7297c28d681f88d5ddb618bcaf36d7420f37193e50262e7e12a2b7d24a682
     home: https://github.com/KvalitetsIT/nsp-prometeus-exporter
@@ -527,7 +538,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2020-10-20T08:37:57.389745381Z"
+    created: "2020-10-20T08:53:59.040122016Z"
     description: A Helm chart for deplaying a service with nsp-prometheus-exporter
     digest: 7826d8486b2e38c15e4642ec6165549b4219e121590b4f0e428e4a90b0308dc1
     home: https://github.com/KvalitetsIT/nsp-prometeus-exporter
@@ -538,7 +549,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-10-20T08:37:57.388971583Z"
+    created: "2020-10-20T08:53:59.039435915Z"
     description: A Helm chart for deplaying a service with nsp-prometheus-exporter
     digest: a674e9c739ba947389a3f60b7fd49dfca28b539503d9d7298c179ec22148e596
     home: https://github.com/KvalitetsIT/nsp-prometeus-exporter
@@ -550,7 +561,7 @@ entries:
   service:
   - apiVersion: v2
     appVersion: 1.10.0
-    created: "2020-10-20T08:37:57.409587383Z"
+    created: "2020-10-20T08:53:59.049917279Z"
     description: A Helm chart for deploying services
     digest: 2ac8f5c99023825a4da2ffd2927859fca54d7cc7826dccb4c96d9258bcced96e
     home: https://github.com/KvalitetsIT/helm-service-chart
@@ -561,7 +572,7 @@ entries:
     version: 1.10.0
   - apiVersion: v2
     appVersion: 1.9.0
-    created: "2020-10-20T08:37:57.430050045Z"
+    created: "2020-10-20T08:53:59.058821143Z"
     description: A Helm chart for deploying services
     digest: 82423e7d143fd719f9f7a50e0e29da6b5574d4b52435bb9bdc3e59c118fbebca
     home: https://github.com/KvalitetsIT/helm-service-chart
@@ -572,7 +583,7 @@ entries:
     version: 1.9.0
   - apiVersion: v2
     appVersion: 1.8.0
-    created: "2020-10-20T08:37:57.427531414Z"
+    created: "2020-10-20T08:53:59.057488391Z"
     description: A Helm chart for deploying services
     digest: 4f99a6a06b8b588521f39300dab2abb3685b222ef4f829348853531c945f8821
     home: https://github.com/KvalitetsIT/helm-service-chart
@@ -583,7 +594,7 @@ entries:
     version: 1.8.0
   - apiVersion: v2
     appVersion: 1.7.0
-    created: "2020-10-20T08:37:57.426169522Z"
+    created: "2020-10-20T08:53:59.05622937Z"
     description: A Helm chart for deploying services
     digest: 6ddc6f820fd8c97a30ddc061dc6dcbfabe89c0a06961a2c727e7414baa164f5d
     home: https://github.com/KvalitetsIT/helm-service-chart
@@ -594,7 +605,7 @@ entries:
     version: 1.7.0
   - apiVersion: v2
     appVersion: 1.6.0
-    created: "2020-10-20T08:37:57.424603765Z"
+    created: "2020-10-20T08:53:59.055491229Z"
     description: A Helm chart for deploying services
     digest: c2b7dbed83c62cce206984b4b2dcd5ac185a09364180fdb711c95db4e6184726
     home: https://github.com/KvalitetsIT/helm-service-chart
@@ -605,7 +616,7 @@ entries:
     version: 1.6.0
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2020-10-20T08:37:57.423028007Z"
+    created: "2020-10-20T08:53:59.054655463Z"
     description: A Helm chart for deploying services
     digest: 0239c553c353e6405daf5d4d147e8f46249c6e613ca08aa268857196615e82bc
     home: https://github.com/KvalitetsIT/helm-service-chart
@@ -616,7 +627,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: 1.4.1
-    created: "2020-10-20T08:37:57.416421972Z"
+    created: "2020-10-20T08:53:59.053934352Z"
     description: A Helm chart for deploying services
     digest: 37f2d9e4795b7aee31c12770e630f5904810fd11dc4b8ed6bb33a564dc9bcfe1
     home: https://github.com/KvalitetsIT/helm-service-chart
@@ -627,7 +638,7 @@ entries:
     version: 1.4.1
   - apiVersion: v2
     appVersion: 1.4.0
-    created: "2020-10-20T08:37:57.415140816Z"
+    created: "2020-10-20T08:53:59.053238068Z"
     description: A Helm chart for deploying services
     digest: c21a4c11ecd0213704ec42356fdef717a8a5d65626875db13d1e823c37a73594
     home: https://github.com/KvalitetsIT/helm-service-chart
@@ -638,7 +649,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2020-10-20T08:37:57.414339459Z"
+    created: "2020-10-20T08:53:59.052453063Z"
     description: A Helm chart for deploying services
     digest: 5b6802404fec69d4e23decc01df0f37fc914b8a53cc017674a761e5b937e1797
     home: https://github.com/KvalitetsIT/helm-service-chart
@@ -649,7 +660,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: 1.2.1
-    created: "2020-10-20T08:37:57.413185986Z"
+    created: "2020-10-20T08:53:59.051546134Z"
     description: A Helm chart for deploying services
     digest: fcb3003e942b9445ee4c5fedf32298343b361a0f7755af6b7d222698b91ab385
     home: https://github.com/KvalitetsIT/helm-service-chart
@@ -660,7 +671,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2020-10-20T08:37:57.410599478Z"
+    created: "2020-10-20T08:53:59.050742916Z"
     description: A Helm chart for deploying services
     digest: a344d0a6945b5f54d5ad714bcb49e96045fcf12f36eac08f0f02cd43390ca3f8
     home: https://github.com/KvalitetsIT/helm-service-chart
@@ -671,7 +682,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2020-10-20T08:37:57.408695787Z"
+    created: "2020-10-20T08:53:59.04906562Z"
     description: A Helm chart for deploying services
     digest: da03e5007d690e1b7e2a817c30587d2d52dea8bc304d5e0aca558b26f00cfe55
     home: https://github.com/KvalitetsIT/helm-service-chart
@@ -682,7 +693,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-10-20T08:37:57.407582555Z"
+    created: "2020-10-20T08:53:59.048350502Z"
     description: A Helm chart for deploying services
     digest: ab1498b93e28e35cb83fa8778650b554e0b5b1e55f88e71d468bb3e86996b7e1
     home: https://github.com/KvalitetsIT/helm-service-chart
@@ -694,7 +705,7 @@ entries:
   sts:
   - apiVersion: v2
     appVersion: 1.0.10
-    created: "2020-10-20T08:37:57.439110801Z"
+    created: "2020-10-20T08:53:59.063676083Z"
     description: A Helm chart for STS
     digest: fcd869f27ece827d5f38da2aa83885619cedefc2f9aab0c59b5475ff13b148b3
     name: sts
@@ -703,7 +714,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 1.0.9
-    created: "2020-10-20T08:37:57.449754796Z"
+    created: "2020-10-20T08:53:59.069613592Z"
     description: A Helm chart for STS
     digest: 6500d9ad658ca27fdd7d555bdbd0f473abf0e86d99e629c972ae7c7aa0ecd9e7
     name: sts
@@ -712,7 +723,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.0.7
-    created: "2020-10-20T08:37:57.448153614Z"
+    created: "2020-10-20T08:53:59.068832818Z"
     description: A Helm chart for STS
     digest: 76ededf0d198d1c53eb42e0948cdfcb0c3981291e6b510feeae3648febfa4b95
     name: sts
@@ -721,7 +732,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2020-10-20T08:37:57.446621708Z"
+    created: "2020-10-20T08:53:59.06794474Z"
     description: A Helm chart for STS
     digest: f14d3e9754775f00c8a4c2f03ba5d5f74a061b58f4fc16ed9c0c30a3fafa6fa9
     name: sts
@@ -730,7 +741,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2020-10-20T08:37:57.445150269Z"
+    created: "2020-10-20T08:53:59.067160332Z"
     description: A Helm chart for STS
     digest: 23652ca52c7cf1058f0bf7307d7f3020a687a892536d29ce2fc01173576b2baa
     name: sts
@@ -739,7 +750,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2020-10-20T08:37:57.443560621Z"
+    created: "2020-10-20T08:53:59.066352151Z"
     description: A Helm chart for STS
     digest: fa79d5c935533b18b487b9858318b1f801df0c4e4a8700d95fe3e1761e61e5f1
     name: sts
@@ -748,7 +759,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2020-10-20T08:37:57.44220107Z"
+    created: "2020-10-20T08:53:59.06546181Z"
     description: A Helm chart for STS
     digest: d886d666609f02b0de86bffb7c7a8268ced1db6979fca473d3eacca772cef98a
     name: sts
@@ -757,7 +768,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2020-10-20T08:37:57.440883202Z"
+    created: "2020-10-20T08:53:59.064543467Z"
     description: A Helm chart for STS
     digest: f29f15bd2359dcc306fa74ebec8149c629cd05e9202e9b2d597dbb5572e93e5d
     name: sts
@@ -766,7 +777,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: "2020-10-20T08:37:57.437985491Z"
+    created: "2020-10-20T08:53:59.062973177Z"
     description: A Helm chart for STS
     digest: eeff0e9771671c02a7571ca47488cd2754fe7abf69586220af554f52d76c40f1
     name: sts
@@ -775,7 +786,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: "2020-10-20T08:37:57.436273265Z"
+    created: "2020-10-20T08:53:59.061338294Z"
     description: A Helm chart for STS
     digest: 6dded3eeabd0ca874ca6345112f01e51afa79193a69caf901bf0907e9e09b00c
     name: sts
@@ -784,11 +795,11 @@ entries:
     version: 0.0.1
   - apiVersion: v1
     appVersion: 0.0.0
-    created: "2020-10-20T08:37:57.431741025Z"
+    created: "2020-10-20T08:53:59.060073112Z"
     description: A Helm chart for STS
     digest: bcccccf971dec45b51ff1f1551064360970720ca2dc3b03696d924c0e5c972d7
     name: sts
     urls:
     - https://raw.githubusercontent.com/KvalitetsIT/helm-repo/master/sts/sts-0.0.0.tgz
     version: 0.0.0
-generated: "2020-10-20T08:37:57.335348392Z"
+generated: "2020-10-20T08:53:58.983633853Z"
