@@ -727,37 +727,6 @@ entries:
     urls:
     - https://raw.githubusercontent.com/KvalitetsIT/helm-repo/master/longhorn/longhorn-1.1.1-0.tgz
     version: 1.1.1-0
-  metadoc:
-  - apiVersion: v2
-    appVersion: v0.0.2
-    created: "2021-12-06T09:23:02.191004543Z"
-    description: A Helm chart for Metadoc
-    digest: 0d0f2f9120ad135c173bf4c8a0cff32acada1e63170f1459f61f3ae771e63a0e
-    name: metadoc
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/KvalitetsIT/helm-repo/master/metadoc/metadoc-v0.0.2.tgz
-    version: v0.0.2
-  - apiVersion: v2
-    appVersion: --version
-    created: "2021-12-06T09:23:02.190065895Z"
-    description: A Helm chart for Metadoc
-    digest: ed5b7f681134dee1de69239265f9c55646e45634b9e3d6ca90d0435c6e13664d
-    name: metadoc
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/KvalitetsIT/helm-repo/master/metadoc/metadoc-0.0.1.tgz
-    version: 0.0.1
-  - apiVersion: v2
-    appVersion: v0.0.1
-    created: "2021-12-06T09:23:02.19055182Z"
-    description: A Helm chart for Metadoc
-    digest: 82c663eb1dcd17a6fee8ec9e87866c0d5acd1131b6cb249ca7a47b11025b11e1
-    name: metadoc
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/KvalitetsIT/helm-repo/master/metadoc/metadoc-v0.0.1.tgz
-    version: v0.0.1
   multitenant:
   - apiVersion: v2
     appVersion: 1.3.1
