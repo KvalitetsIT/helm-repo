@@ -2,3 +2,9 @@ repositoryID: dff1bdfa-1486-4698-97e9-1b51b6f5b691
 owners:
   - name: KITHosting
     email: kithosting@kvalitetsit.dk
+ignore:
+  - name: dependencytrack # we are using the dtrack
+  - name: dtrack # We have migrated to a new versioning scheme
+    version: 202[56]\.0\.0-\d{2}-\d{2}-\d{6}-[a-fA-F0-9]{7}
+  - name: kitargus # We have migrated to a new versioning scheme
+    version: 202[56]\.0\.0-\d{2}-\d{2}-\d{6}-[a-fA-F0-9]{7}
